@@ -1,6 +1,6 @@
 ## Lab 0 Report
 
-The Lab 0 recording can be foudn here: https://youtu.be/yZ4rtPVRLr0
+The Lab 0 recording can be found here: https://youtu.be/yZ4rtPVRLr0
 
 **Summary**
 
