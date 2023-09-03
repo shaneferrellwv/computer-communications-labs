@@ -18,9 +18,9 @@ After downloading and installing the Wireshark application, a user can launch th
 
 *Figure 1: Wireshark startup screen*
 
-The user can view the capture interfaces by selecting the Capture button. The interfaces are shown in Figure 2. ![A screenshot of a computer
+The user can view the capture interfaces by selecting the Capture button. The interfaces are shown in Figure 2. 
 
-Description automatically generated](media/Aspose.Words.04082eed-f39d-4fb3-a001-fcc3d71acc25.002.jpeg)
+![](media/Aspose.Words.04082eed-f39d-4fb3-a001-fcc3d71acc25.002.jpeg)
 
 *Figure 2: Wireshark capture interfaces*
 
