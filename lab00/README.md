@@ -2,9 +2,7 @@ Shane Ferrell
 
 EEL4598 Fall 2023
 
-Lab 0 Report
-
-The Lab 0 demo recording can be found in the Lab repository: [https://github.com/shaneferrellwv/computer-communications-labs/tree/main/lab00](https://github.com/shaneferrellwv/computer-communications-labs/tree/main/lab00)
+# Lab 0 Report
 
 **Summary**
 
