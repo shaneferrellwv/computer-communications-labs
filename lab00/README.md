@@ -44,7 +44,7 @@ The packets captured by Wireshark when the web page is accessed are shown in Fig
 
 Messages matching certain criteria can be filtered. Figure 6 shows Wireshark when a filter is applied to display only HTTP messages.
 
-![]media/(Aspose.Words.04082eed-f39d-4fb3-a001-fcc3d71acc25.006.jpeg)
+![](media/Aspose.Words.04082eed-f39d-4fb3-a001-fcc3d71acc25.006.jpeg)
 
 *Figure 6: Captured HTTP messages from web page*
 
