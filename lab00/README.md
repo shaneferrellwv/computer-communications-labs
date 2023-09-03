@@ -1,7 +1,5 @@
 ## Lab 0 Report
 
-The Lab 0 demo recording can be found in the Lab repository: <https://github.com/shaneferrellwv/computer-communications-labs/tree/main/lab00> 
-
 **Summary**
 
 This lab included the setting and exploration of Wireshark, a packet analyzer that can be used to capture and investigate messages sent over a network.
