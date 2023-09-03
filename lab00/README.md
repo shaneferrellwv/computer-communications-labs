@@ -1,5 +1,7 @@
 ## Lab 0 Report
 
+The Lab 0 recording can be foudn here: https://youtu.be/yZ4rtPVRLr0
+
 **Summary**
 
 This lab included the setting and exploration of Wireshark, a packet analyzer that can be used to capture and investigate messages sent over a network.
