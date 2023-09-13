@@ -6,7 +6,7 @@ The Lab 1 recording can be found here: [insert demo link]
 
 This lab included the exploration or ping, ICMP, and traceroute by observing them in action with the Wireshark tool.
 
-**Part 1: ICMP and Ping**
+### Part 1: ICMP and Ping
 
 Wireshark was used to observe packets on the network resulting from the ping command “ping -n 10 www.ust.hk”. This command sends 10 ping messages to a web server at Hong Kong University of Science and Technology. The resulting output is shown in Figure 1.
 
