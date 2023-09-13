@@ -39,7 +39,7 @@ Details of the ICMP for the reply packet are shown in Figure 5. The ICMP type is
 
 *Figure 5: Details of the ICMP reply packet*
 
-**Part 2: ICMP and Traceroute**
+### Part 2: ICMP and Traceroute
 
-**Part 3: ICMP and Traceroute using Pingplotter**
+### Part 3: ICMP and Traceroute using Pingplotter
 
