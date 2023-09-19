@@ -1,6 +1,8 @@
 ## Lab 1 Report
 
-The Lab 1 recording can be found here: [insert demo link]
+The Lab 1 recordings can be found here:
+
+Part 1 https://youtu.be/EyCEkO0lNiU
 
 **Summary**
 
