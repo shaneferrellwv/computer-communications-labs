@@ -3,7 +3,7 @@
 The Lab 1 recordings can be found here:
 
 Part 1 https://youtu.be/EyCEkO0lNiU
-
+Part 2 https://youtu.be/7ZHbXtvi9Rw
 **Summary**
 
 This lab included the exploration or ping, ICMP, and traceroute by observing them in action with the Wireshark tool.
@@ -45,3 +45,21 @@ Details of the ICMP for the reply packet are shown in Figure 5. The ICMP type is
 
 ### Part 3: ICMP and Traceroute using Pingplotter
 
+![](media/fig11.png)
+Figure 1: Screenshot of Pingplotter window
+
+The IP address of our host is 192.168.1.77. The IP address of our target destination host is 128.93.162.83.
+
+![](media/fig12.png)
+Figure 2: IP Address shown from echo request packet
+
+No, the IP Protocol number would be 0x11 (17), the number for UDP
+![](media/fig13.png)
+Figure 3: UDP shown with ID number from Wireshark
+The Echo Packet is shown below. It is different than that of the first half of the lab, because the source and destination differ, 
+![](media/fig14.png)
+The ICMP error packet is shown below. The extra fields include an added checksum, 2 identifiers, and 2 sequence numbers - each adding 2 bytes.
+The ICMP packets that are different than the error packets are
+Within the tracert measurements, the link whose delay is significantly longer are any who end in “.fr” rather than “.net”. This same idea is mimicked in my lab, where the links ending in “.fr” are longer than the “.net”, most likely because of the distance from here to routers in France, and propagation delay. 
+![](media/fig15.png)
+Based on the router names, 
