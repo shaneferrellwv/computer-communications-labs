@@ -3,7 +3,11 @@
 The Lab 1 recordings can be found here:
 
 Part 1 https://youtu.be/EyCEkO0lNiU
+
 Part 2 https://youtu.be/7ZHbXtvi9Rw
+
+Part 3 https://drive.google.com/file/d/18z5nsO65N9W__cdJyzBbAAxO_WBxl0x9/view?usp=drive_link
+
 **Summary**
 
 This lab included the exploration or ping, ICMP, and traceroute by observing them in action with the Wireshark tool.
